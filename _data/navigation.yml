@@ -16,7 +16,8 @@ main:
     url: /year-archive/
     
   - title: "CV"
-    url: /cv/
+    # url: /cv/
+    url: https://www.youtube.com/watch?v=dQw4w9WgXcQ
     
   - title: "Guide"
     url: /markdown/
